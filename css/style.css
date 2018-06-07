@@ -52,9 +52,9 @@ nav ul li a{
 	color: white;
 }
 nav ul li.active a{
-	color: #40ff00;
+	color: #40ff0;
 }
-nav ul li.active{ background-color: #cc6600;padding-left:10px;padding-right:10px; }
+nav ul li.active{ background-color:;padding-left:10px;padding-right:10px; }
 nav ul li a:hover{color: #fff}
 
 /*##########################################################*/
